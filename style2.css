@@ -178,6 +178,13 @@ background-image: url(img/bg-masthead.jpg);
 background-position: center;
 }
 
-.list-inline-icons {
+.list-inline-item {
+	display: inline;
+	margin-right: 15px;
+}
+
+.list-inline-icons-item {
 	list-style-type: none;
+	display: inline;
+	text-align: left;
 }
